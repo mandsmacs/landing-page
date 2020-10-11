@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+    
+        
+        body {background-color: #fcdff5;}
+      h1 {border: 1px solid #7d51e8;
+      padding: 5px;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        color: rgb(196, 89, 238);
+        font-size: 16mm;
+      }
+      h2 { font-family: Arial, Helvetica, sans-serif;
+      font-weight: 300;
+        text-align: center;
+        color: rgb(214, 9, 153);
+        
+      }
+      h3 {font-size: 8mm;
+      color: black
+;
+    }
+
+h4 { font-size: 50px; text-align: right; color: rgb(231, 244, 248);text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;}
+
+div {text-align: center;}
+.photogallery {text-align: center; font-size: 40px; font-family: Arial, Helvetica, sans-serif; background-image: url(https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/vintage-macarons-delphimages-photo-creations.jpg);  padding: 20px; border-radius: 260px 50px;box-shadow: 5px 5px 5px rgba(0,0,0,0.5); }
+.Stand {font-size: 28px;}
+.vanilla {font-size: 25px; }
+.start {text-align: center;}
+.gymnastics { transition: all 200ms ease-in-out; box-shadow: 5px 5px 5px rgba(0,0,0,0.5); display: block; margin: 0 auto; background: hotpink; color: lavenderblush; font-size: 16px; padding: 10px 20px; border-radius: 5px;}
+.Mandy {font-family: Arial, Helvetica, sans-serif;}
+.caption {font-size: 3.8mm; text-align: center;}
+.pinkombre {border-radius: 10px;}
+.bluebowl {border-radius: 10px;}
+.strawberry {border-radius: 10px;}
+.firstline {line-height: 1.5; font-family: Arial, Helvetica, sans-serif; background-color: cornsilk; width: 50%;}
+.secondline {line-height: 1.5; font-family: Arial, Helvetica, sans-serif; text-align: center;  background-image: linear-gradient(rgb(216, 98, 240), rgb(241, 199, 232)); text-align: right; }
+.bitten {border-radius: 10px;}
+.introduction {text-align: center; font-family: Arial, Helvetica, sans-serif; line-height: 1.5; color: rgb(236, 101, 101);}
+.instagram {transition: all 200ms ease-in-out; text-decoration: none; color: whitesmoke; font-size: 25px;
+box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;border: 1px solid #9b4264;
+      padding: 10px; 
+      border-radius: 10px;
+      background-image: url(https://image.shutterstock.com/image-photo/soft-cloud-background-pastel-multicolored-260nw-278044451.jpg);}
+  .gymnastics:hover {opacity: 0.8; cursor: pointer; }
+  .instagram:hover {opacity: 0.8; cursor: pointer}
+
+.link1 {font-size: 20px; color: rgb(212, 72, 212);}
+.link2 {font-size: 20px; color: rgb(212, 72, 212);}
+
+.macaronquestion {transition: all 200ms ease-in-out; box-shadow: 5px 5px 5px rgba(0,0,0,0.5); display: block; margin: 0 auto; background: hotpink; color: lavenderblush; font-size: 16px; padding: 10px 20px; border-radius: 10px;}
+.macaronquestion:hover {opacity: 0.8; cursor:pointer}
+h9 {color: #4a1452; display:inline-block;    width:1200px;    text-align:center; font-size: 30px; font-family: Arial, Helvetica, sans-serif;}
+    </style>
+  </head>
+
+
+
+
+
+
+
+  <body>
+    
+    <h1><em> Mandy's Macarons</em></h1>
+
+   <h9>
+       Hey there, stranger!
+   </h9>
+        
+ <h2> Welcome to the page of
+      <a href="https://www.instagram.com/mandsmacs/">@mandsmacs</a>, where you
+      can find more information on my homemade macarons! <br> Each macaron is made lovingly by hand 💖
+      
+    </h2>
+    <button class="macaronquestion">What is your name?</button> <br><br><br>
+    <img class="pinkombre"
+      src="https://scontent-lht6-1.xx.fbcdn.net/v/t1.15752-9/121112813_341711517050472_711709279100767186_n.jpg?_nc_cat=105&_nc_sid=ae9488&_nc_ohc=ZRCWouC7YqsAX8n3PuV&_nc_ht=scontent-lht6-1.xx&oh=29e3f1bf919c91e4729e928e428690f0&oe=5FA65E04"
+      alt="Pink Ombre Macs"
+      width="350px"
+    
+    />
+    <img class="bluebowl" src="https://scontent-lhr8-1.xx.fbcdn.net/v/t1.15752-9/121296986_347305919827313_6944263607154854234_n.jpg?_nc_cat=111&_nc_sid=ae9488&_nc_ohc=LH96sqS-P8gAX-vs2oE&_nc_ht=scontent-lhr8-1.xx&oh=576da64b6727fcbbf939ee78564f831a&oe=5FA578E1" alt="Blue Macarons"
+    width="257px"/>
+<img class="strawberry" src="https://scontent-lhr8-1.xx.fbcdn.net/v/t1.15752-9/120962237_661839841393252_7428343692535981991_n.jpg?_nc_cat=107&_nc_sid=ae9488&_nc_ohc=9mcQPqOb7xcAX9myO3c&_nc_ht=scontent-lhr8-1.xx&oh=6a83af891717b751b13ee1918aab8252&oe=5FA771DA" alt="Strawberry Macarons"
+width="410px"/>
+<img class=bitten src="https://scontent-lht6-1.xx.fbcdn.net/v/t1.15752-9/p2048x2048/120430362_3433017456805235_3347227389686348759_n.jpg?_nc_cat=106&_nc_sid=ae9488&_nc_ohc=kG8tFaoKO4UAX9x4_JC&_nc_ht=scontent-lht6-1.xx&tp=6&oh=873a5adf2948b32adea7e57eb2ded30d&oe=5FA602E4" alt="Bitten macs"
+width="178px">
+
+
+    <p class="introduction">
+    🍭 🍭 <br><br><strong>
+      Hi! I'm<span style="font-weight: bolder;" blueviolet;"> Mandy</span>, a mac-enthusiast from Manchester in England. I started
+      baking French macarons in 2013 after finding myself spending *way* too
+      much money buying these little sweet treats, and I haven't stopped baking
+      since.
+      Aside from baking macarons for friends and family (past boyfriends and
+      in-laws have never complained about the fact I turned up to every single
+      family event with a big box of these babies), I also enjoy selling my
+      macarons for charities. <br /><br>
+      <img src="https://scontent-lhr8-1.xx.fbcdn.net/v/t1.15752-9/120933696_815111152568233_4319372244770039117_n.jpg?_nc_cat=111&_nc_sid=ae9488&_nc_ohc=XuwKpwaPMcEAX-ZwwKB&_nc_ht=scontent-lhr8-1.xx&oh=7bc430d9814ac5776ff6fe956a552756&oe=5FA7F316"
+        alt="Diversity Macs" width="500px" style="float: none;
+              margin-right: 10px;
+              margin-bottom: 5px;
+              border: solid black 1px; padding: 2px" /> <br><br>
+      My most popular flavours to date are <a  href="https://www.instagram.com/p/CGBRHFBHf1D/">strawberry,</a><a href="https://www.instagram.com/p/CEO3iulj_GT/"> pistachio</a> and 
+      <a href="https://www.instagram.com/p/CERTq-TjqTx/"> Kinder Bueno.</a> <br><br />🍓💚🍫 <br><br>
+       <a class="instagram" href="https://www.instagram.com/mandsmacs/" >
+        ➡️  Visit my Instagram page here  ⬅️
+    </a></strong><br></p>
+      <br> 
+      <p class="Mandy"> 
+          <img src="https://scontent-lht6-1.xx.fbcdn.net/v/t1.15752-9/121064705_358329381955655_1033551933083487140_n.jpg?_nc_cat=106&_nc_sid=ae9488&_nc_ohc=XCK5FxpBdX4AX-HuoLj&_nc_ht=scontent-lht6-1.xx&oh=88d3e7747f37aa3bbb011f2d9c405018&oe=5FA7309D" alt="Me in Germany 2019"
+          width="340px"
+          style="float:left;
+          margin-right: 10px;
+          margin-bottom: 5px;
+          border: solid black 1px; padding: 2px"
+          /> 
+        <img src="https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/48375609_270652486930463_7068252083031375872_n.jpg?_nc_cat=103&_nc_sid=0debeb&_nc_ohc=hJSFZp_sWLUAX9tmRDj&_nc_ht=scontent-lht6-1.xx&oh=1fa89b376d593ebfb9c664f54441a217&oe=5FA5F8F3"
+            alt="Gymnastics" width="430px" style="float: right;
+            margin-right: 10px;
+          margin-bottom: 5px;
+          border: solid black 1px; padding: 2px"" /></p2>
+          <h3><em>A Little More About The One Man(dy) Band Behind @mandsmacs</em></h3>
+         <p class=firstline> I'm Mandy, a British-born Chinese and recent graduate from the University of Manchester. I graduated with a BA (Hons) in German and East Asian Studies, and studied for one year at Ruprecht Karls University Heidelberg. <br><br> Waking up every morning to the views of the mountains in Heidelberg was a dream and, apart from eating schnitzels every other day, I thoroughly enjoyed my time studying English Literature, German Language, and East Asian Art History.
+      <br> </p>
+      <strong><em class="caption"> Please look to the photo on the left, where you can see an aforementioned schnitzel.</em></strong>
+<br><br> 
+<p class="secondline">
+From the ages of 11-21, I was also a competitive <a href="https://en.wikipedia.org/wiki/Rhythmic_gymnastics#:~:text=Rhythmic%20gymnastics%20is%20a%20sport,%2C%20agile%2C%20dexterous%20and%20coordinated.">rhythmic gymnast</a>, competing both nationally and internationally. 
+Although my back and legs aren't what they used to be, I still enjoy coaching the new generations of gymnasts at my former club.
+  </p> <br>
+   <button class="gymnastics"> 
+      Rhythmic gymnastics is an Olympic sport, true or false?
+   </button> 
+   
+    <br>
+    <br><br>
+    <hr>
+    <h4><em>My Macaron Portfolio</em> </h4> 
+    <img src="https://scontent-lhr8-1.xx.fbcdn.net/v/t1.15752-9/121067274_3878337308894792_2727894961786141422_n.jpg?_nc_cat=109&_nc_sid=ae9488&_nc_ohc=lzC73yQEZ8QAX8nkEk5&_nc_ht=scontent-lhr8-1.xx&oh=41090788a75e5589152635850a9060ea&oe=5FA7B276" alt="Macaron1"
+    width="350px"
+    style="float: left;margin-right: 20px;
+          margin-bottom: 5px;
+         " > <br><br><br><br><br><br><br><br>
+      <p class="vanilla"> <em> Light pink vanilla macarons. Baby pink is a French classic - I've always found this shade to be chic and elegant, best
+        enjoyed with a cup of hot tea ☕. </em></p>
+   <a class="link1" href="https://www.instagram.com/p/CFrlycDD-c-/">
+    Link to full post 
+   </a>
+
+ 
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img src="https://scontent-lhr8-1.xx.fbcdn.net/v/t1.15752-9/120904083_362178211800793_8652905371364377855_n.jpg?_nc_cat=110&_nc_sid=ae9488&_nc_ohc=x7FSho4yV1MAX86ip7m&_nc_ht=scontent-lhr8-1.xx&oh=c24cc6c9b753c99f27bd1c48dfba1bbf&oe=5FA824CE" alt="Macarons2"
+width="300px"
+style="float: right; margin: 5px;"
+> 
+<br><br><br><br><br><br><br><br>
+<p class="Stand"><em> A fusion of the loveliest pastels, cascading down like roses and adorned with the prettiest blossoms 🌸. The fluffy white macs on top were made with a smooth double cream and white chocolate filling, whilst the rose-coloured ones were filled with a classic vanilla buttercream.</em></p>
+<a class="link2" href="https://www.instagram.com/p/CFpIlXdj0J-/"> Link to full post </a>
+
+<br><br><br><br><br><br><br><br>
+<p class="photogallery">More Photos</p> 
+<br>
+
+
+
+<img src="https://scontent-lht6-1.xx.fbcdn.net/v/t1.15752-9/p2048x2048/121112601_366461597732106_2856047222111839408_n.jpg?_nc_cat=105&_nc_sid=ae9488&_nc_ohc=qUjYA62RpQQAX_e6uT5&_nc_ht=scontent-lht6-1.xx&tp=6&oh=61803e03aa34e1036badb184c6f9ba3b&oe=5FA62C05"
+    alt="Macarons5" width="230px";>
+    <img src="https://scontent-lht6-1.xx.fbcdn.net/v/t1.15752-9/p2048x2048/120200132_1228396024185728_4451000905198176778_n.jpg?_nc_cat=100&_nc_sid=ae9488&_nc_ohc=wtsq4Z-XzxUAX8C9rR-&_nc_ht=scontent-lht6-1.xx&tp=6&oh=1e17274a0ee3141f52ab6bb74cbd1bbd&oe=5FA74A54" alt="BlueMacs"
+    width="230px">
+    <img src="https://scontent-lhr8-1.xx.fbcdn.net/v/t1.15752-9/p2048x2048/121058606_1301781913500372_3304193495923641448_n.jpg?_nc_cat=111&_nc_sid=ae9488&_nc_ohc=qiKwv2-k2hoAX_ryEFh&_nc_ht=scontent-lhr8-1.xx&tp=6&oh=cea06db3a88bd4e60b10d9c20814977c&oe=5FA7C757" alt="MacStack1"
+    width="230px">
+    <img src="https://scontent-lhr8-1.xx.fbcdn.net/v/t1.15752-9/121098787_1638945999607079_253409200215729930_n.jpg?_nc_cat=111&_nc_sid=ae9488&_nc_ohc=kdkQXkaVXeEAX_zDIzB&_nc_ht=scontent-lhr8-1.xx&oh=6780c9515a61a3dc710e2f29a2e19e5b&oe=5FA69079" alt="WhiteMacs"
+    width="275px">
+    <img src="https://scontent-lht6-1.xx.fbcdn.net/v/t1.15752-9/p2048x2048/119998700_3295531257203277_1957799240244781669_n.jpg?_nc_cat=105&_nc_sid=ae9488&_nc_ohc=rDdZgUsibTUAX-MEK46&_nc_ht=scontent-lht6-1.xx&tp=6&oh=e5bd2aa19ed3ca000f0d0ff42056808f&oe=5FA85F60" alt="speckled"
+    width="228px">
+
+    <img src="https://scontent-lhr8-1.xx.fbcdn.net/v/t1.15752-9/p2048x2048/120998519_2785391278396047_609141778064599080_n.jpg?_nc_cat=107&_nc_sid=ae9488&_nc_ohc=IoWP8Oo1LIwAX_6GD5W&_nc_ht=scontent-lhr8-1.xx&tp=6&oh=d2432c87ed417711d568e294742d77ae&oe=5FA830F2" 
+    alt="Macs6"
+    width="234px">
+    <img src="https://scontent-lhr8-1.xx.fbcdn.net/v/t1.15752-9/121311096_1589147007933604_5334180828654469705_n.jpg?_nc_cat=104&_nc_sid=ae9488&_nc_ohc=YRAfkf0oI_EAX-s94D2&_nc_ht=scontent-lhr8-1.xx&oh=e6156d9d08d17ebadeae896cf156a90b&oe=5FA6D10C" 
+    alt="orange"
+    width="267px">
+    <img src="https://scontent-lht6-1.xx.fbcdn.net/v/t1.15752-9/118790336_313098723101559_1859367494915341146_n.jpg?_nc_cat=108&_nc_sid=ae9488&_nc_ohc=GS-gwOR-uFAAX8k1NIx&_nc_ht=scontent-lht6-1.xx&oh=75b195b67e61783a169e1a4d872c05ca&oe=5FA780D2" 
+    alt="cheesecake"
+    width="433x">
+    <img src="https://scontent-lhr8-1.xx.fbcdn.net/v/t1.15752-9/121185256_673125936915574_2840266679534001468_n.jpg?_nc_cat=110&_nc_sid=ae9488&_nc_ohc=tUbAp3D_SkgAX8G5DZJ&_nc_ht=scontent-lhr8-1.xx&oh=e2a2b99311b2e5a4f261b4dc3de80b4b&oe=5FA78AA9"
+     alt="sstrawbandcheese"
+     width="263px">
+
+
+     <img src="https://scontent-lht6-1.xx.fbcdn.net/v/t1.15752-9/p2048x2048/121302682_2874667699524003_9045359989632224748_n.jpg?_nc_cat=105&_nc_sid=ae9488&_nc_ohc=85sD2unAHAsAX-SMGqr&_nc_ht=scontent-lht6-1.xx&tp=6&oh=da41b2920d08ba4c0944dd7b9fe4d1de&oe=5FA9946C" 
+     alt="macstack2"
+     width="227px">
+     <img src="https://scontent-lht6-1.xx.fbcdn.net/v/t1.15752-9/p2048x2048/121069959_1034714520324454_2101275518825323034_n.jpg?_nc_cat=105&_nc_sid=ae9488&_nc_ohc=P3gxgm-fAOkAX8ipOgc&_nc_ht=scontent-lht6-1.xx&tp=6&oh=a54a5ad198045c1c730c1d2481ac6525&oe=5FA998F0"
+      alt="caramel2"
+      width="227px">
+      <img src="https://scontent-lhr8-1.xx.fbcdn.net/v/t1.15752-9/p2048x2048/121094880_622978025047666_1841452135886692657_n.jpg?_nc_cat=109&_nc_sid=ae9488&_nc_ohc=hG_qVZj-k7QAX-BwVxC&_nc_ht=scontent-lhr8-1.xx&tp=6&oh=f7218b887a195b698add13cd4ea3031c&oe=5FA687E4" 
+      alt="pinkpurple"
+      width="227px">
+      <img src="https://scontent-lhr8-1.xx.fbcdn.net/v/t1.15752-9/121086903_403493147325454_7498305383424734964_n.jpg?_nc_cat=104&_nc_sid=ae9488&_nc_ohc=SxWsOm6-52EAX_vvJ8Z&_nc_ht=scontent-lhr8-1.xx&oh=4ba5d2cd8a9d661425db5df2e1459988&oe=5FA787F7"
+       alt="speckled2"
+       width="283px">
+       <img src="https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/117096672_288337532436146_2154172100268926074_n.jpg?_nc_cat=104&_nc_sid=ae9488&_nc_ohc=A74byUZU8CIAX-qZBIr&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=60010bd108e08a876292dd070529cb42&oe=5FA724A5"
+        alt="goldpaint"
+        width="226px">
+
+
+     <img src="https://scontent-lht6-1.xx.fbcdn.net/v/t1.15752-9/p1080x2048/120936793_335427757556467_4982225709511640900_n.jpg?_nc_cat=108&_nc_sid=ae9488&_nc_ohc=kGgxs-I70BYAX-YBI0K&_nc_oc=AQm9OgiVknLwqowBsJdK9tQUgmok49LTuXLuxX5XBLJFHLyT6-Sz7tQjaa59ak5l4hw&_nc_ht=scontent-lht6-1.xx&tp=6&oh=d1d1f36c785ea62aebbcd446d67cad83&oe=5FA729BD
+     " alt="bigboxcolor"
+     width="481px">
+     <img src="https://scontent-lhr8-1.xx.fbcdn.net/v/t1.15752-9/118708029_362765458229024_8623252194522598599_n.jpg?_nc_cat=104&_nc_sid=ae9488&_nc_ohc=tb6QAJ92v_4AX8JoHv3&_nc_ht=scontent-lhr8-1.xx&oh=195043ace670422046bdd6d8dc0cb41f&oe=5FA9767B"
+      alt="redwhite"
+      width="242px">
+      <img src="https://scontent-lht6-1.xx.fbcdn.net/v/t1.15752-9/121001567_718146395446283_1863506648087461997_n.jpg?_nc_cat=100&_nc_sid=ae9488&_nc_ohc=c5ycP0TcHN4AX_jg95e&_nc_ht=scontent-lht6-1.xx&oh=6369daf64ca7f905b92b9ba9ef4a0474&oe=5FA87377"
+       alt="roses"
+       width="257px">
+       <img src="https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/121255388_1061330680951683_6832740002526155509_n.jpg?_nc_cat=110&_nc_sid=ae9488&_nc_ohc=ns6JimONFsUAX8Due49&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=6&oh=e4e7fb2d424b5aeac89b46347941b6f2&oe=5FA65737"
+        alt="bluemacs"
+        width="215px">
+    <br><br>
+    
+    
+   <div> This page was built by <a href="https://twitter.com/mandyleinx">Mandy Gao</a></div>
+
+
+
+
+<script>
+    function buy () { 
+        let name = prompt ("What is your name?");
+       let h9 = document.querySelector("h9");
+
+       h9.innerHTML = "Hi there, " + name + "!";
+
+        alert ("Thank you " + name + ". Welcome to my page!");}
+
+        let buyButton = document.querySelector(".macaronquestion");
+    buyButton.addEventListener("click", buy);
+
+    </script>
+    <script>
+
+    function answer() {
+        let trueorfalse = prompt("True or False?")
+         trueorfalse = trueorfalse.trim(); //This gets rid of the whitespace before and after the word.
+        trueorfalse = trueorfalse.toLowerCase();
+
+        if (trueorfalse === "True" || trueorfalse === "true") {
+            alert("That's correct!");
+        } else {alert("Wrong! RG debuted at the 1984 Olympic Games in LA.")}}
+       
+      
+
+        let torf = document.querySelector(".gymnastics");
+        torf.addEventListener("click", answer);
+
+    </script>
+        
+    </body>
+</html>
